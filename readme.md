@@ -1,3 +1,9 @@
+### This is a project written using javascript and chartjs. 
+
+### data has been taken from a NASA resource in the form of a .csv file. 
+
+### the chart shows data collated from 1880 - 2020
+
 For working with csv files and pulling out the data to be used in a graph (for example):
 
 create an async function to getData()
